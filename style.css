@@ -170,6 +170,7 @@ hr{
     background:rgba(248, 21, 4, 0.959);
     padding: 12px 20px;
     border: none;
+    font-weight: bold;
     border-radius: 3px;
     cursor: pointer;
 }
@@ -189,4 +190,55 @@ hr{
     margin-left: auto;
     padding-top: 15px;
     font-weight: bold;
+}
+.comment-extra{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    font-size: 14px;
+    font-weight: 450;
+}
+.comment-extra i{
+    margin-left: 5%;
+    margin-right: 1%;
+    font-size: 20px;
+    color: #777;
+}
+.comment-section{
+    display: flex;
+}
+#comment-search{
+    width: 100%;
+    border: none;
+    margin-left: 20px;
+    border-bottom: solid 1px gray;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    outline: none;
+    background-color: transparent;
+}
+.comments{
+    margin-top: 25px;
+    display: flex;
+}
+.comments .comment-writup{
+    padding: 7px;
+}
+.bold{
+    font-weight: bold;
+    padding-bottom: 7px;
+}
+.comment-des{
+    padding-top:5px;
+    padding-bottom: 7px;
+}
+.comment-icon{
+    display: flex;
+    font-size: 20px;
+    color: #777;
+    margin-top: 10px;
+}
+.comment-icon p{
+    padding-right: 30px;
+    margin-right: 10px;
 }
