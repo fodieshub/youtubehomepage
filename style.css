@@ -142,3 +142,19 @@ hr{
     display: flex;
     justify-items: center;
 }
+#channel-logo{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+}
+.channel-name{
+    display: flex;
+    padding: 10px;
+}
+.channel-name{
+    flex-direction: column;
+}
+#channel .sub-number{
+    font-size: 15px;
+    padding-top: 3px;
+}
