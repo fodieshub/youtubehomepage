@@ -54,5 +54,24 @@ img{
 }
 .search-txt{
     width: 50%;
-    height: 90%;
+    height: 70%;
+    padding: 10px;
+    outline: none;
+    font-size: 18px;
+    margin-top: 8px;
 }
+#icon{
+    margin-left: auto;
+    /* padding-bottom: 20px; */
+  }
+  #icon i{
+      margin-right: 2rem;
+      font-size: 20px;
+      color: #777;
+  }
+  #avatar{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    justify-content: center;
+}  
