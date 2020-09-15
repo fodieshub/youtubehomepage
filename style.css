@@ -7,3 +7,9 @@ body{
     background-color: #F8F9F9;
     font-family: Arial;
 }
+.container{
+    max-width: 1500px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0.5rem 2rem;
+}
