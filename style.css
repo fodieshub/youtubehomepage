@@ -244,3 +244,13 @@ hr{
 }
 
 /* Aside Bar */
+#sidebar{
+    width: 30%;
+}
+.next{
+    display: flex;
+    font-weight: 550;
+}
+.auto123{
+    margin-left: auto;
+}
