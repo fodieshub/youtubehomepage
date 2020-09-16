@@ -34,7 +34,8 @@ Web browser (Chrome/Firefox)
 
 ### Usage
 
-Click on the live demo link and peruse the app.
+Click on the live demo link access the app.
+https://fodieshub.github.io/youtubehomepage/
 
 ### Making Changes
 
