@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #F8F9F9;
+    background-color: #f8f9f9af;
     font-family: Arial;
 }
 #main-nav{
@@ -249,10 +249,13 @@ hr{
 }
 .next{
     display: flex;
-    font-weight: 550;
 }
 .auto123{
     margin-left: auto;
+    font-size: 16px;
+}
+.up{
+    font-size: 16px;
 }
 #imagethumbnail{
     display: flex;
@@ -275,4 +278,18 @@ hr{
 .thum-name{
     padding-bottom: 5px;
     color: gray;
+}
+.thum-view{
+    color: gray;
+}
+.left{
+    margin-left: auto;
+    padding-top: 15px;
+    font-size: 20px;
+    color: #777;
+}
+.left2{
+    margin-left: auto;
+    font-size: 20px;
+    color: #777;
 }
