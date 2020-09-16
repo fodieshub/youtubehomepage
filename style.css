@@ -41,28 +41,28 @@ img{
 #search-box {
     position:absolute;
     left: 25%;
-    width: 80%;
+    width: 50%;
     height: 80%;
+}
+.search-txt{
+    width: 80%;
+    height: 70%;
+    padding: 10px;
+    outline: none;
+    font-size: 18px;
+    margin-top: 8px;
+    margin-right: 0%;
 }
 .search-btn {
     color: #333;
     background-color: gray;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    padding: 8px 20px;
     height: 70%;
-}
-.search-txt{
-    width: 50%;
-    height: 70%;
-    padding: 10px;
-    outline: none;
-    font-size: 18px;
-    margin-top: 8px;
 }
 #icon{
     margin-left: auto;
-    /* padding-bottom: 20px; */
   }
   #icon i{
       margin-right: 2rem;
