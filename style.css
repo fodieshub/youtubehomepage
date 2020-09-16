@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #f8f9f9af;
+    background-color: #f8f9f97a;
     font-family: Arial;
 }
 #main-nav{
@@ -76,7 +76,7 @@ img{
     justify-content: center;
 }  
 #showcase{
-    max-width: 87%;
+    max-width: 90%;
     display: flex;
     margin: auto;
     margin-top: 20px;
@@ -85,7 +85,7 @@ img{
 }
 #main{
     
-    width: 70%;
+    width: 68%;
     padding: 0 30px;
     box-sizing: border-box;
 }
