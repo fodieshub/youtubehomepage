@@ -32,13 +32,6 @@ Please Note that you must have github installed on your PC, this can be done [he
 
 Web browser (Chrome/Firefox)
 
-### Usage
-
-Click on the live demo link access the app.
-https://fodieshub.github.io/youtubehomepage/
-
-### Making Changes
-
 ## Author
 
 👤 *Audu Kehinde*
