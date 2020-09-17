@@ -2,7 +2,7 @@
 
 > This is a project aimed at implementing lessons learned on HTML5 AND CSS3. The project provides a simple layout of the Youtube homepage and affords me the opportunity to learn and implement what i learnt.
 
-![screenshot](src/image/youtube.png)
+![screenshot](image/youtube.png)
 
 ## Built With
 
