@@ -19,6 +19,7 @@ body{
     overflow: hidden;
     padding: 0.5rem 2rem;
     display: flex;
+    justify-content: space-between;
     align-items: center;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -41,22 +42,24 @@ img{
     height: 80%;
 }
 .search-txt{
-    width: 80%;
+    width: 85%;
     height: 65%;
     padding: 10px;
     outline: none;
     font-size: 18px;
     margin-top: 8px;
     margin-right: 0%;
+    position: absolute;
+    box-sizing: #333;
 }
-.search-btn {
-    color: #333;
-    background-color: gray;
-    justify-content: center;
-    align-items: center;
-    padding: 8px 30px;
-    height: 65%;
+.fa-search {
+    color: rgb(207, 202, 202);
+    background-color: #524f4f;
+    padding: 8px 23px;
+    top: 7px;
+    right: -490px;
     border-radius: 2px;
+    position: relative;
 }
 #icon{
     margin-left: auto;
